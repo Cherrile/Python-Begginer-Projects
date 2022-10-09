@@ -19,3 +19,9 @@ while True:
                     print("Wake up!!")
                     playsound('audio.mp3')
                     break
+
+
+# strftime is used to convert date and time to string
+# % modulo function reurns the remainder after division
+# while- used to repeat a block of code for an unkown number of times
+# if checks if certain codes need to be used or nor
